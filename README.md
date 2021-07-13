@@ -1,24 +1,12 @@
-# README
+# rails_miscellaneous_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tested Environment
 
-Things you may want to cover:
+- macOS
+- Rails 6.1.4
 
-* Ruby version
+　  
 
-* System dependencies
+## Related Blog (Written in Japanese)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Railsで、同一のbefore_actionを別オプションで複数定義した場合、最後の定義が有効になる - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2021/07/13/232000)
